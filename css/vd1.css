@@ -1,0 +1,7 @@
+/* DAY LA FILE STYLE SHEET MO TA DINH DANG */
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    font-size: 2em;
+    text-shadow: 5px 3px 5px gray;
+}
